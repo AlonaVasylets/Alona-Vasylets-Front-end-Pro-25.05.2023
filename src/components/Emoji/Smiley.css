@@ -1,0 +1,14 @@
+.smiley {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.count {
+  margin: 0;
+  font-size: 20px;
+}
+.emoji {
+  margin: 0;
+  font-size: 40px;
+}
